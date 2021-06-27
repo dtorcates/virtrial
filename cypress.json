@@ -1,0 +1,15 @@
+{
+    "viewportHeight": 900,
+    "viewportWidth": 1200,
+    "component": {
+      "viewportHeight": 500,
+      "viewportWidth": 500
+    },
+    "baseUrl": "https://dennytrial.qa1.myvirtrial.dev/",
+    "env": {
+      "user": "dennytorcates+DA_sc@virtrial.com",
+      "password": "Password@123"
+    },
+    "projectId": "r6s31f"
+  }
+  

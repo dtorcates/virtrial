@@ -15,5 +15,12 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^7.6.0"
-  }
+  },
+  
+"repository":{
+
+  "type":"git",
+  "url":"https://github.com/dtorcates/virtrial"
+}
+  
 }
